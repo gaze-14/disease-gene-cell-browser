@@ -98,11 +98,11 @@ not a confirmed explanation.
 ## Screenshot 3 — Cell Types Expressing TP53
 <img width="1169" height="2097" alt="IMG_3965" src="https://github.com/user-attachments/assets/b794242c-301f-4904-92ac-87aca2675695" />
 
-## Part F — Select Cells and Examine an Expression Plot
+## Select Cells and Examine an Expression Plot
 
 **a. Which cells/cluster did you select?**
 
-I examined the myeloid progenitor cluster and compared its TP53 expression with other bone marrow cell types using a dot plot.
+I examined the myeloid progenitor cluster using the TP53 expression dot plot and compared it with other bone marrow cell types, particularly CD24 neutrophils. I used the dot-plot alternative because I could not select cells using the rectangle tool.
 
 **b. Does your selected group show higher, lower, or similar expression compared with the comparison cells?**
 
@@ -184,7 +184,7 @@ does not demonstrate that a particular TP53 variant causes Li-Fraumeni syndrome.
 **1. What did the UCSC Cell Browser show you that the UCSC Genome Browser could not?**
 
 The UCSC Cell Browser showed me how TP53
-expression varies among different bon marrow cell types. Unlike the Genome Browser, which showed the gene's location, structure, and variants, the Cell Browser allowed me to observe gene expression in individual cells and compare different cell clusters.
+expression varies among different bone marrow cell types. Unlike the Genome Browser, which showed the gene's location, structure, and variants, the Cell Browser allowed me to observe gene expression in individual cells and compare different cell clusters.
 
 **2. Why can the same gene have different expression levels among different cell types?**
 
