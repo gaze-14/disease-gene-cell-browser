@@ -96,7 +96,7 @@ different biological states or activities, which may influence their gene-expres
 not a confirmed explanation.
 
 ## Screenshot 3 — Cell Types Expressing TP53
-<img width="1169" height="2097" alt="IMG_3965" src="https://github.com/user-attachments/assets/b794242c-301f-4904-92ac-87aca2675695" />
+<img width="1169" height="2104" alt="IMG_3966" src="https://github.com/user-attachments/assets/6762f9aa-f59c-4618-b066-f8a7a59875bc" />
 
 ## Select Cells and Examine an Expression Plot
 
